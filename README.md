@@ -1,5 +1,8 @@
 # Desafio de linguagem de programação Java
+
 Exercício passado com o intuito de praticar e entender ArraysList de java criando um programa que análisa uma playlist de músicas
+
+
 <---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ```
 Como você está trabalhando com ArrayLists, importe ArrayList de java.util.
