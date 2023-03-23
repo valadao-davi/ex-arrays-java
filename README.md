@@ -1,6 +1,7 @@
 # Desafio de linguagem de programação Java
 <------------------------------------------------------------------------->
- ### Como você está trabalhando com ArrayLists, importe ArrayList de java.util.
+```
+Como você está trabalhando com ArrayLists, importe ArrayList de java.util.
 Crie uma classe chamada Playlist com um método main(). Dentro de
 main(), crie um novo ArrayList chamado listaParaIlhaDeserta que pode
 armazenar valores do tipo String. Hora de adicionar músicas!
@@ -42,5 +43,7 @@ original da música b o valor da sua variável temporária (que é realmente a m
 a). Em outras palavras, você está colocando a música a onde a música b
 costumava estar.
 Imprima a lista final para ver as músicas trocadas de suas posições
-originais.`
+originais.
+```
+
 <------------------------------------------------------------------------->
